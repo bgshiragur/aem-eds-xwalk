@@ -2,7 +2,8 @@
   "mappings": [
     "/content/aem-eds-xwalk/:/",
     "/content/aem-eds-xwalk/configuration:/.helix/config.json",
-    "/content/aem-eds-xwalk/metadata:/metadata.json"
+    "/content/aem-eds-xwalk/metadata:/metadata.json",
+    "/content/aem-eds-xwalk/redirects:/redirects.json"
   ],
   "includes": [
     "/content/aem-eds-xwalk/"
